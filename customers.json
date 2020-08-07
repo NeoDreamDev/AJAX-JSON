@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "name": "Salaam Tyrek",
+        "company": "Logic Design",
+        "phone": "646-468-4826"
+    },
+    {
+        "id": 2,
+        "name": "Jada Joseph",
+        "company": "Jadege Cafe",
+        "phone": "718-853-2356"
+    },
+    {
+        "id": 3,
+        "name": "Roosevelt Hill",
+        "company": "R&H Photography",
+        "phone": "917-457-3457"
+    }
+]
